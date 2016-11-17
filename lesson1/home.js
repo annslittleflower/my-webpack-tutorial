@@ -1,5 +1,5 @@
 let welcome = require('./welcome');
 
-welcome('home');
+welcome('homessssssssssss');
 
 exports.welcome = welcome;

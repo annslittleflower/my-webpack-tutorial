@@ -40,16 +40,16 @@ var home =
 /******/ 	// Load entry module and return exports
 /******/ 	return __webpack_require__(0);
 /******/ })
-/**************************sssss**********************************************/
+/************************************************************************/
 /******/ ([
 /* 0 */
 /***/ function(module, exports, __webpack_require__) {
 
 	let welcome = __webpack_require__(1);
 
-	welcome('home');
+	welcome('homessssssssssss');
 
-	//exports.welcome = welcome;
+	exports.welcome = welcome;
 
 
 /***/ },

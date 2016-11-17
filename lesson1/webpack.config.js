@@ -3,5 +3,6 @@ module.exports = {
   output: {
     filename: 'build.js',
     library: 'home'
-  }
+  },
+  watch:true,
 }
